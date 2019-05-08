@@ -1,5 +1,8 @@
 _repo: Wisdom-s-Daughter-The-Life-and-Love-Story-of-She-Who-Must-be-Obeyed_59422
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59422-h/images/cover.jpg
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/365
     wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59422#Wisdom-s-Daughter-The-Life-and-Love-Story-of-She-Who-Must-be-Obeyed
 gutenberg_issued: '2019-05-03'
 gutenberg_type: Text
 identifiers:
